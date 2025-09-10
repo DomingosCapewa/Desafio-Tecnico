@@ -1,0 +1,8 @@
+Prompt
+
+Estou desenvolvendo um sistema em Java que precisa consumir uma API externa usando autenticação via token. 
+Não posso compartilhar meu token real, mas você pode me mostrar um exemplo de como organizar o código de forma segura, 
+seguindo boas práticas para armazenar o token e realizar a requisição HTTP. 
+Gostaria que você: Mostrasse a estrutura de uma classe ApiService com métodos para conectar e consumir a API.
+Usasse boas práticas, como não deixar o token hardcoded e facilitar a manutenção
+Incluísse comentários explicando cada passo do código
