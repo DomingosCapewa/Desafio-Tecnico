@@ -11,7 +11,7 @@ namespace ControleDeContatos.Models
         public string Nome { get; set; }
 
         public string Telefone { get; set; }
-        
+
 
         public Contato(string nome, string telefone)
         {
